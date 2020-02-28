@@ -1,0 +1,19 @@
+.btn {
+    width: 500px;
+    background: red;
+    color: white;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.lorem {
+    width: 500px;
+    background: blue;
+    color: white;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    
+}
